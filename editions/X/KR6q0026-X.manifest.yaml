@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0026_000-X.yaml, hash: 'sha256:c3c06ac31802348062eb09f21121cbe164f8706c9d9cfe432a1628b258ee199f'}
+  - {seq: 0, filename: KR6q0026_000-X.yaml, hash: 'sha256:1dfde312f339f154a366590088a870329cdac91ab22f5880220bb7f2f936fea7'}
   - {seq: 1, filename: KR6q0026_001-X.yaml, hash: 'sha256:2039699ebe0fbcbab632de1d666531bd9c79c7fdd43bdc71ee2fc78f02d612d2'}
   - {seq: 2, filename: KR6q0026_002-X.yaml, hash: 'sha256:cb297c15fa13964179f6d83dcc9da774a15e9287f714ff2877743429b66a601b'}
   - {seq: 3, filename: KR6q0026_003-X.yaml, hash: 'sha256:fc2d36d0fff7ca3b485bad9bbd302b76d6d83eb44938543340855527f0b97c2d'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 15, filename: KR6q0026_015-X.yaml, hash: 'sha256:5faf400b4c4c88f2c1740660216c614f4b732ae3dae3bf4ed06a8a262982a46a'}
   - {seq: 16, filename: KR6q0026_016-X.yaml, hash: 'sha256:69f2fcaa5ee2ed9c89f5fe274b736cde07e55b1d776de9805f4f3986fa184024'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0026_000-X.markers.yaml, hash: 'sha256:c692e723f05ff0421ac5e6ffc9ba134b3b4f51f94cb9cfc732180ccdafd5a89f'}
+  - {seq: 0, role: markers, filename: assets/KR6q0026_000-X.markers.yaml, hash: 'sha256:6308beafe75a6b9485b3e492ed6038f1dca4b478f7753481b5f7efa844c09050'}
   - {seq: 1, role: markers, filename: assets/KR6q0026_001-X.markers.yaml, hash: 'sha256:efb76f9dbf797c7b806d935c8a32bf07bf767c13a0fcc65553421f92db3f12e5'}
   - {seq: 2, role: markers, filename: assets/KR6q0026_002-X.markers.yaml, hash: 'sha256:dbd6ce21a9074e94bec6f68422082cfc3402cbb504166c8009df6398173190f6'}
   - {seq: 3, role: markers, filename: assets/KR6q0026_003-X.markers.yaml, hash: 'sha256:c5614892ea47f5dcf1d41a8795e17db65a704bcd45028df352bd4b4393e21bae'}
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0026_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1580-A 教外別傳序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0026_X_000-mulu-2
     span:
-    - front
+    - body
     - 384
     - 384
   label: No. 1580-B 教外別傳序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0026_X_000-mulu-3
     span:
-    - front
+    - body
     - 1316
     - 1316
   label: No. 1580-C 教外別傳序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0026_X_000-mulu-4
     span:
-    - front
+    - body
     - 1871
     - 1871
   label: 教外別傳目錄
@@ -8145,4 +8145,4 @@ table_of_contents:
   label: 孝宗皇帝
   type: mulu
   level: 1
-hash: sha256:7acb6bcfdba5e8f6b66c8733e877d30cf026534fbe742b7d276d0a740562a145
+hash: sha256:f481d8fccdbcaa528fe2dc3a26cec27bc65d80eb4ebd1a4955570d495dd3b4eb
